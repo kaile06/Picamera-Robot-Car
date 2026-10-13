@@ -6,3 +6,7 @@ Tested the motor control and could manually command it to move accordingly, succ
 Successfully installed the picamera2, used Template Matching and Teachable to detect shapes, symbols and arrows accurately, and was able to follow the centre black line closely throughout the whole track with PID control.   
 
 Combined the detection system with the line-following algorithm using multithreading to ensure smooth autonomous navigation, developed and calibrated custom movements for all required symbols and arrows, including a timed 360-degree rotation, implemented a robust color-masking priority system to navigate crossroads accurately
+
+Below is the demo video of the multicoloured line following with shape and symbol detection:
+https://github.com/user-attachments/assets/96dce159-bce9-4151-9e3d-0fef62bf848d
+
