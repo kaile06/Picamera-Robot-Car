@@ -7,6 +7,6 @@ Successfully installed the picamera2, used Template Matching and Teachable to de
 
 Combined the detection system with the line-following algorithm using multithreading to ensure smooth autonomous navigation, developed and calibrated custom movements for all required symbols and arrows, including a timed 360-degree rotation, implemented a robust color-masking priority system to navigate crossroads accurately
 
-Below is the demo video of the multicoloured line following with shape and symbol detection:
+Demo video of the multicoloured line following with shape and symbol detection:
 https://github.com/user-attachments/assets/96dce159-bce9-4151-9e3d-0fef62bf848d
 
